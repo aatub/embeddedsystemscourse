@@ -1,0 +1,13 @@
+# Target labels
+ hw4
+# Source files and their labels
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4-complete.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-configure.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-download.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-mkdir.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-patch.rule
+C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-update.rule

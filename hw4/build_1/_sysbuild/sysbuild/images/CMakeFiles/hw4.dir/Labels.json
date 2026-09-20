@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4-complete.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-configure.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-download.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-mkdir.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-patch.rule"
+		},
+		{
+			"file" : "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hw4"
+		],
+		"name" : "hw4"
+	}
+}

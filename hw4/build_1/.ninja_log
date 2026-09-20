@@ -1,0 +1,27 @@
+# ninja log v7
+40	244	8116156073781461	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-mkdir	3e065413235f5c3a
+40	244	8116156073781461	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-mkdir	3e065413235f5c3a
+245	429	8116156075701053	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-download	b6b5db119d4a8227
+245	429	8116156075701053	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-download	b6b5db119d4a8227
+430	583	8116156077234971	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-update	1ebd077e52230492
+430	583	8116156077234971	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-update	1ebd077e52230492
+584	746	8116156078877576	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-patch	a31389b0f364cd99
+584	746	8116156078877576	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-patch	a31389b0f364cd99
+747	976	8116156081053443	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-configure	cb5c9ed03ed6d424
+747	976	8116156081053443	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-configure	cb5c9ed03ed6d424
+977	23339	8116156081331625	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build	2d3ead90c60e02f8
+977	23339	8116156081331625	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build	2d3ead90c60e02f8
+23339	23445	8116156304921182	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install	cf5969ae752bca7a
+23339	23445	8116156304921182	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install	cf5969ae752bca7a
+23445	23642	8116156307842851	_sysbuild/sysbuild/images/CMakeFiles/hw4-complete	9237da576b7cc071
+23445	23642	8116156307842851	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-done	9237da576b7cc071
+23445	23642	8116156307842851	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4-complete	9237da576b7cc071
+23445	23642	8116156307842851	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-done	9237da576b7cc071
+22	332	8116156666471568	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build	2d3ead90c60e02f8
+22	332	8116156666471568	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-build	2d3ead90c60e02f8
+333	406	8116156669568673	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install	cf5969ae752bca7a
+333	406	8116156669568673	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-install	cf5969ae752bca7a
+406	570	8116156671834876	_sysbuild/sysbuild/images/CMakeFiles/hw4-complete	9237da576b7cc071
+406	570	8116156671834876	_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-done	9237da576b7cc071
+406	570	8116156671834876	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/CMakeFiles/hw4-complete	9237da576b7cc071
+406	570	8116156671834876	C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/_sysbuild/sysbuild/images/hw4-prefix/src/hw4-stamp/hw4-done	9237da576b7cc071

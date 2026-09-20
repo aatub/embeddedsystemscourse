@@ -1,0 +1,7 @@
+default: hw4
+build_dir: C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1
+domains:
+  - name: hw4
+    build_dir: C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4/build_1/hw4
+flash_order:
+  - hw4
