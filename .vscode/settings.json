@@ -2,7 +2,8 @@
     "nrf-connect.applications": [
         "${workspaceFolder}\\hw2",
         "${workspaceFolder}\\hw3",
-        "${workspaceFolder}\\hw4"
+        "${workspaceFolder}\\hw4",
+        "${workspaceFolder}\\hw5\\rtos_traffic_light"
     ],
     "cmake.sourceDirectory": "C:/msys64/home/aatub/embeddedcodes/embeddedsystemscourse/hw4"
 }
