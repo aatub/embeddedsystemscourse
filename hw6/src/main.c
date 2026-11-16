@@ -1,3 +1,5 @@
+//tavoittelen 1p arviointia tässä. Eli 1p arvoinen tehtävä suoritettu.
+
 #include <zephyr/kernel.h>
 #include <zephyr/drivers/uart.h>
 #include <zephyr/sys/printk.h>
